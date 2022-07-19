@@ -1,2 +1,2 @@
 # AUTO-INFANT-CPR-SOFTWARE
-A NEONATAL CHEST COMPRESSION PROGRAM FOR A CPR DEVICE
+The aim is to write a program using the arduino IDE to operate a neonatal chest compression device.
